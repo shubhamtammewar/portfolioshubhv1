@@ -26,7 +26,7 @@ function App() {
 					className='logoStart'
 				>
 					<img
-						src='https://github.com/himrd95/portfolio/blob/main/src/assets/logo_new.png?raw=true'
+						src='https://cdn3.vectorstock.com/i/thumb-large/18/02/s-letter-dash-fast-quick-digital-mark-line-vector-39451802.jpg'
 						alt='logo'
 					/>
 				</div>
