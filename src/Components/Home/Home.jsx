@@ -11,7 +11,7 @@ import About from '../About/About';
 import { projects } from '../../Utils/Projects';
 import Contact from '../Contact/Contact';
 import { ThemeContext } from '../../ContextProvider/ThemeContext';
-import Experiences from '../Experiences/Experiences';
+
 
 const Home = ({ scrollRef }) => {
 	const [projectArray, setProjectArray] = useState(
@@ -84,7 +84,7 @@ const Home = ({ scrollRef }) => {
 					</h1>
 					<div className={styles.btn}>
 						<a
-							href='https://drive.google.com/file/d/1Hy-ysd6t5ILdb8Wgi93ffH0euRecUiSt/view?usp=sharing'
+							href='https://drive.google.com/file/d/1FdnIjwjEtgvBAbELWvg2ZYbK2tlZDA97/view?usp=sharing'
 							target='_blank'
 						>
 							<Button
@@ -110,7 +110,7 @@ const Home = ({ scrollRef }) => {
 					className={styles.profileImage}
 				>
 					<img
-						src=
+						src="../../../shubham_tammewar_photo-removebg-preview.png"
 						alt='Profile pic'
 					/>
 				</div>
@@ -144,10 +144,8 @@ const Home = ({ scrollRef }) => {
 					data-aos-duration='700'
 					style={{ color: `${newTheme.para}` }}
 				>
-					<Experiences />
-					{/* "Himanshu is not only great for development, he is a problem
-					solver who always delivers an exceptional quality of work.
-					Highly recommended." */}
+
+				
 				</div>
 			</div>
 
