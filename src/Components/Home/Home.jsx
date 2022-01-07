@@ -83,10 +83,9 @@ const Home = ({ scrollRef }) => {
 						things for web.
 					</h1>
 					<div className={styles.btn}>
-						<a
-							href='https://drive.google.com/file/d/1FdnIjwjEtgvBAbELWvg2ZYbK2tlZDA97/view?usp=sharing'
-							target='_blank'
-						>
+						
+						<a href='https://drive.google.com/file/d/1FdnIjwjEtgvBAbELWvg2ZYbK2tlZDA97/view?usp=sharing'
+							target='_blank'>
 							<Button
 								text={
 									<span className={styles.resumeBtn}>
@@ -111,7 +110,7 @@ const Home = ({ scrollRef }) => {
 				>
 					<img
 						src="../../../shubham_tammewar_photo-removebg-preview.png"
-						alt='Profile pic'
+						alt='Profile pic' style={{height:"50px",width:"50px"}}
 					/>
 				</div>
 			</div>
