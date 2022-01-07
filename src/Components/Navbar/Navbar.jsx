@@ -54,10 +54,10 @@ const Navbar = () => {
 			}}
 		>
 			<div className={styles.navbar}>
-				<a href='https://himanshu-dwivedi.netlify.app/'>
+				<a href='https://portfolioshubhv1-shubhamtammewar.vercel.app/'>
 					<div className={styles.logo}>
 						<img
-							src='https://github.com/himrd95/portfolio/blob/main/src/assets/logo_new.png?raw=true'
+							src='https://cdn3.vectorstock.com/i/thumb-large/18/02/s-letter-dash-fast-quick-digital-mark-line-vector-39451802.jpg'
 							alt='Logo'
 						/>
 					</div>
