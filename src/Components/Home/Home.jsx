@@ -110,7 +110,7 @@ const Home = ({ scrollRef }) => {
 					className={styles.profileImage}
 				>
 					<img
-						src={photo}
+						src="E:\portfolioshubhv1\public\ProjectImages\shubham_tammewar_photo-removebg-preview.png"
 						alt='Profile pic'
 					/>
 				</div>
