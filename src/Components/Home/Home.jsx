@@ -5,7 +5,7 @@ import SideIcons from '../SideIcons/SideIcons';
 import TechStacks from '../TechStacks/TechStacks';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import {photo} from "../../../public/ProjectImages/shubham_tammewar_photo-removebg-preview.png"
+
 import { Button } from '../Button/Button';
 import About from '../About/About';
 import { projects } from '../../Utils/Projects';
@@ -110,7 +110,7 @@ const Home = ({ scrollRef }) => {
 					className={styles.profileImage}
 				>
 					<img
-						src="E:\portfolioshubhv1\public\ProjectImages\shubham_tammewar_photo-removebg-preview.png"
+						src=
 						alt='Profile pic'
 					/>
 				</div>
