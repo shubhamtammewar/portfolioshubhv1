@@ -75,11 +75,11 @@ const Home = ({ scrollRef }) => {
 							className={styles.name}
 							style={{ color: `${newTheme.title}` }}
 						>
-							Himanshu Dwivedi.
+							Shubham Tammewar
 						</div>
 					</h1>
 					<h1>
-						I am a Full Stack Developer based in Mirzapur. I build
+						I am a Full Stack Developer based in Nanded. I build
 						things for web.
 					</h1>
 					<div className={styles.btn}>
