@@ -110,7 +110,7 @@ const Home = ({ scrollRef }) => {
 				>
 					<img
 						src="https://github.com/shubhamtammewar/portfolioshubhv1/blob/main/public/ProjectImages/shubham_tammewar_photo-removebg-preview.png?raw=true"
-						alt='Profile pic' style={{height:"150px",width:"150px"}}
+						alt='Profile pic' style={{height:"450px",width:"450px"}}
 					/>
 				</div>
 			</div>
