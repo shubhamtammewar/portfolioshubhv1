@@ -8,8 +8,8 @@ const About = () => {
 	const [width] = WindowSize();
 	const img =
 		width < 650
-			? 'https://github.com/himrd95/me_Himanshu/blob/main/src/assets/profile_pic_without_background.png?raw=true'
-			: 'https://github.com/himrd95/portfolio/blob/main/public/developer.gif?raw=true';
+			? 'https://avatars.githubusercontent.com/u/91666990?v=4'
+			: '';
 	return (
 		<div
 			className={styles.container}
