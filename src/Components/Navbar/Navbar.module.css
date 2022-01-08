@@ -22,7 +22,7 @@
 	width: 80%;
 	margin: auto 10%;
 	height: fit-content;
-
+    position:fixed;
 	display: flex;
 	/* opacity: .4; */
 	justify-content: space-between;
