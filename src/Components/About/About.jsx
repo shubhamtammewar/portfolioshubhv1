@@ -5,11 +5,8 @@ import styles from './About.module.css';
 
 const About = () => {
 	const { newTheme } = React.useContext(ThemeContext);
-	const [width] = WindowSize();
-	const img =
-		width < 650
-			? 'https://avatars.githubusercontent.com/u/91666990?v=4'
-			: '';
+	// const [width] = WindowSize();
+	
 	return (
 		<div
 			className={styles.container}
