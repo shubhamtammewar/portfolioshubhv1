@@ -1,21 +1,21 @@
 export const projects = [
 
 	{
-		img: 'https://camo.githubusercontent.com/b7f4aa8c34ddf776dd19b78dc3488456470a73e5026f48784e9e753601468802/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c62507030307771454537386c6f68584d372f67697068792e676966',
-		title: 'Clone of Fitness Blender',
-		des: 'This is a clone of the Fitness Blender website. The clone is complete with a Login page, Sign-in page, Shopping Cart, Wishlist and Calendar Scheduling feature. Following is the link to the clone of the website.',
+		img: 'https://github.com/Smrutiranjan-Patra/shopper-stop-clone-public/raw/main/images/home.png?raw=true',
+		title: 'Clone of Shoppers stop',
+		des: 'This is a clone of Shoppers Stop which is an Indian department store chain, website. The clone is complete with a Login page, Sign-in page, Shopping Cart, Wishlist and Calendar Scheduling feature. Following is the link to the clone of the website.',
+		live: 'https://shopper-stop-clone.herokuapp.com/',
 		demo: '',
-		live: 'https://anshusagar.github.io/FitnessBlender/',
-		gitHub: 'https://github.com/Anshusagar/FitnessBlender.git',
-		technologies: ['HTML', 'CSS', 'javaScript'],
+		gitHub: 'https://github.com/Smrutiranjan-Patra/shopper-stop-clone-public',
+		technologies: ['HTML','CSS','javaScript',"MongoDB","Express","Mongoose",],
 	},
 	{
-		img: 'https://github.com/mandarsatam/Mailchimp-Clone/blob/master/Snips/Screenshot%20(79).png?raw=true',
-		title: 'Mailchimp Clone',
-		des: 'This is a static clone of a website called Mailchimp. This clone includes landing, pricing, our story, and the resources page.',
+		img: 'https://github.com/AvdheshPal/Pull-Bear/raw/main/image.gif',
+		title: 'Pull & Bear Shopping Website Clone',
+		des: 'This is a static clone of a Pull&Bear which is a Spanish clothing and accessories retailer.',
 		demo: '',
-		live: 'https://mandarsatam.github.io/Mailchimp-Clone/',
-		gitHub: 'https://github.com/mandarsatam/Mailchimp-Clone',
-		technologies: ['HTML', 'CSS', 'javaScript'],
+		live: 'http://pull-bear-avdheshpal.vercel.app/',
+		gitHub: 'https://github.com/AvdheshPal/Pull-Bear',
+		technologies: ['HTML', 'CSS', 'javaScript','LocalStorage'],
 	},
 ];
