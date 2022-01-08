@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import styles from './Home.module.css';
 import Card from '../Card/Card';
 import SideIcons from '../SideIcons/SideIcons';
-import TechStacks from '../TechStacks/TechStacks';
+import TechStacks from '../Techstacks/Techstacks';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
@@ -110,7 +110,7 @@ const Home = ({ scrollRef }) => {
 				>
 					<img
 						src="https://github.com/shubhamtammewar/portfolioshubhv1/blob/main/public/ProjectImages/shubham_tammewar_photo-removebg-preview.png?raw=true"
-						alt='Profile pic' style={{height:"550px",width:"550px"}}
+						alt='Profile pic'
 					/>
 				</div>
 			</div>
@@ -125,7 +125,7 @@ const Home = ({ scrollRef }) => {
 				<About />
 			</div>
 
-			<div id='techStacks' className={styles.techStacks}>
+			<div id='skills' className={styles.techStacks}>
 				<TechStacks />
 			</div>
 
@@ -166,7 +166,7 @@ const Home = ({ scrollRef }) => {
 					text={
 						projects.length !== projectArray.length
 							? 'Show More'
-							: 'Show Less'
+							: 'Go to Top'
 					}
 					handleButton={handleShowMoreBtn}
 				/>
