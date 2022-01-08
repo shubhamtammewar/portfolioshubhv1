@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { ThemeContext } from '../../ContextProvider/ThemeContext';
-import styles from './TechStacks.module.css';
+import styles from './Techstacks.module.css';
 
 const TechStacks = () => {
 	const { newTheme } = useContext(ThemeContext);
@@ -15,7 +15,7 @@ const TechStacks = () => {
 				style={{ color: `${newTheme.title}` }}
 				className={styles.heading}
 			>
-				Proficiencies
+				Skills
 			</h1>
 			<div className={styles.borderBottom} />
 			{/* <h2
