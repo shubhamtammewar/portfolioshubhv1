@@ -109,7 +109,7 @@ const Home = ({ scrollRef }) => {
 					className={styles.profileImage}
 				>
 					<img
-						src="https://avatars.githubusercontent.com/u/91666990?v=4"
+						src="https://github.com/shubhamtammewar/portfolioshubhv1/blob/main/public/ProjectImages/shubham_tammewar_photo-removebg-preview.png?raw=true"
 						alt='Profile pic' style={{height:"550px",width:"550px"}}
 					/>
 				</div>
