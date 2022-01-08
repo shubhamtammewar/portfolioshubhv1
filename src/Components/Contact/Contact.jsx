@@ -32,21 +32,21 @@ const Contact = () => {
 						<i className='fas fa-phone-alt' />
 					</a>
 					<a
-						href='mailto: shubhamtammewar96@gmail.com'
+						href='mailto:shubhamtammewar96@gmail.com'
 						aria-label='email'
 						target='_blank'
 						rel='noreferrer'
 					>
 						<i className='far fa-envelope'></i>
 					</a>
-					<a
+					{/* <a
 						href='/'
 						aria-label='Twitter'
 						target='_blank'
 						rel='noreferrer'
 					>
 						<i className='fab fa-twitter'></i>
-					</a>
+					</a> */}
 					<a
 						href='https://github.com/shubhamtammewar'
 						aria-label='GitHub'
@@ -57,7 +57,7 @@ const Contact = () => {
 					</a>
 
 					<a
-						href='www.linkedin.com/in/shubhamtammewar'
+						href='https://www.linkedin.com/in/shubhamtammewar'
 						aria-label='Linkedin'
 						target='_blank'
 						rel='noreferrer'
