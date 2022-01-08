@@ -24,7 +24,7 @@ const Contact = () => {
 					className={styles.contactOptions}
 				>
 					<a
-						href='tel:9454538373'
+						href='tel:9850346259'
 						aria-label='GitHub'
 						rel='noreferrer'
 						target='_blank'
@@ -32,7 +32,7 @@ const Contact = () => {
 						<i className='fas fa-phone-alt' />
 					</a>
 					<a
-						href='mailto: himrd95@gmail.com'
+						href='mailto: shubhamtammewar96@gmail.com'
 						aria-label='email'
 						target='_blank'
 						rel='noreferrer'
@@ -40,7 +40,7 @@ const Contact = () => {
 						<i className='far fa-envelope'></i>
 					</a>
 					<a
-						href='https://twitter.com/himansh03285202'
+						href='/'
 						aria-label='Twitter'
 						target='_blank'
 						rel='noreferrer'
@@ -48,7 +48,7 @@ const Contact = () => {
 						<i className='fab fa-twitter'></i>
 					</a>
 					<a
-						href='https://github.com/himrd95'
+						href='https://github.com/shubhamtammewar'
 						aria-label='GitHub'
 						rel='noreferrer'
 						target='_blank'
@@ -57,7 +57,7 @@ const Contact = () => {
 					</a>
 
 					<a
-						href='https://www.linkedin.com/in/himanshu-dwivedi-861205112/'
+						href='www.linkedin.com/in/shubhamtammewar'
 						aria-label='Linkedin'
 						target='_blank'
 						rel='noreferrer'
@@ -74,7 +74,7 @@ const Contact = () => {
 				style={{ color: `${newTheme.para}` }}
 				className={styles.copyright}
 			>
-				Designed and build by Himanshu Dwivedi, 2021 All rights
+				Designed and build by Shubham Tammewar, 2022 All rights
 				reserved.
 			</div>
 		</footer>
