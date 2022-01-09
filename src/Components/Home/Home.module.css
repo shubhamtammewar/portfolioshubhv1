@@ -79,6 +79,7 @@ body::after {
 	margin-left: 60px;
 	display: flex;
 	justify-content: center;
+	/* background-image: url("https://github.com/shubhamtammewar/portfolioshubhv1/blob/main/public/shubhamtammewar_profilepic.png?raw=true"); */
 	align-items: flex-start;
 	border-bottom: 7px solid #9802be;
 	transform: rotate(-2deg);
