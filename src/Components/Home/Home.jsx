@@ -84,8 +84,7 @@ const Home = ({ scrollRef }) => {
 					</h1>
 					<div className={styles.btn}>
 						
-						<a href='https://drive.google.com/file/d/1FdnIjwjEtgvBAbELWvg2ZYbK2tlZDA97/view?usp=sharing'
-							>
+						<a href='https://drive.google.com/file/d/1FdnIjwjEtgvBAbELWvg2ZYbK2tlZDA97/view?usp=sharing'>
 							<Button
 								text={
 									<span className={styles.resumeBtn}>
@@ -109,7 +108,7 @@ const Home = ({ scrollRef }) => {
 					className={styles.profileImage}
 				>
 					<img
-						src="https://raw.githubusercontent.com/shubhamtammewar/portfolioshubhv1/main/public/shubhamtammewar_profilepic.png?token=GHSAT0AAAAAABPGP42FSAT3U5BEHXFW2CYMYOZNJCA"
+						src="https://raw.githubusercontent.com/shubhamtammewar/portfolioshubhv1/main/public/shubhamtammewar_profilepic.png"
 						alt='Profile pic' style={{height: '550px',width: '550px'}}
 					/>
 				</div>
