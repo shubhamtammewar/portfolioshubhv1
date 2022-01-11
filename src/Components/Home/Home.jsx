@@ -5,7 +5,7 @@ import SideIcons from '../SideIcons/SideIcons';
 import TechStacks from '../Techstacks/Techstacks';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import {photo} from "../../../public/images/shubhamtammewar_profilepic.png"
+import photo from "../../shubham/shubhamtammewar_profilepic.png"
 import { Button } from '../Button/Button';
 import About from '../About/About';
 import { projects } from '../../Utils/Projects';
@@ -109,7 +109,7 @@ const Home = ({ scrollRef }) => {
 				>
 					<img
 					     src={photo}
-						// src="https://raw.githubusercontent.com/shubhamtammewar/portfolioshubhv1/main/public/shubhamtammewar_profilepic.png"
+					
 						alt='Profile pic' style={{height: '550px',width: '550px'}}
 					/>
 				</div>
