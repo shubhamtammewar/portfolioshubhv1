@@ -37,9 +37,7 @@ const Home = ({ scrollRef }) => {
 		document.body.style.backgroundColor = newTheme.background;
 	}, [newTheme]);
 
-	const handleButton = () => { 
-		fetch("https://drive.google.com/file/d/1FdnIjwjEtgvBAbELWvg2ZYbK2tlZDA97/view?usp=sharing")
-	};
+	const handleButton = () => {};
 
 	console.log(offset);
 	const handleShowMoreBtn = () => {
@@ -51,9 +49,8 @@ const Home = ({ scrollRef }) => {
 			setLocation(offset)
 		}
 	};
-	// let go="https://drive.google.com/file/d/1FdnIjwjEtgvBAbELWvg2ZYbK2tlZDA97/view?usp=sharing";
+
 	return (
-	
 		<div ref={scrollRef}>
 			<SideIcons />
 			<div
@@ -86,8 +83,8 @@ const Home = ({ scrollRef }) => {
 						things for web.
 					</h1>
 					<div className={styles.btn}>
-					
-						{/* <a href='https://drive.google.com/file/d/1FdnIjwjEtgvBAbELWvg2ZYbK2tlZDA97/view?usp=sharing'> */}
+						
+						<a href='https://drive.google.com/file/d/1FdnIjwjEtgvBAbELWvg2ZYbK2tlZDA97/view?usp=sharing' target='_blank' rel='noopener noreferrer'>
 							<Button
 								text={
 									<span className={styles.resumeBtn}>
@@ -95,9 +92,9 @@ const Home = ({ scrollRef }) => {
 										<i className='fas fa-file-download'></i>
 									</span>
 								}
-								onClick={handleButton}
+								handleButton={handleButton}
 							/>
-						
+						</a>
 					</div>
 				</div>
 
