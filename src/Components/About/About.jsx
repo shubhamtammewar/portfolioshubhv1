@@ -1,6 +1,6 @@
 import React from 'react';
 import { ThemeContext } from '../../ContextProvider/ThemeContext';
-import WindowSize from '../../Utils/WindowSize';
+// import WindowSize from '../../Utils/WindowSize';
 import styles from './About.module.css';
 
 const About = () => {
