@@ -27,7 +27,7 @@ const About = () => {
 					style={{ color: `${newTheme.para}` }}
 					className={styles.aboutMe}
 				>
-					Hello! My name is Shubham and I enjoy creating things that are live on the internet My interest in web development started
+					Hello! My name is Shubham and I enjoy creating things that are live on the internet. My interest in web development started
 					back last year when I was trying to edit things on the web —
 					taught me a lot about HTML & CSS!. <br />
 					<br /> Fast Forwarding to today, I built a number of web
