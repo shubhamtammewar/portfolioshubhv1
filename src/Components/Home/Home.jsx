@@ -5,7 +5,7 @@ import SideIcons from '../SideIcons/SideIcons';
 import TechStacks from '../Techstacks/Techstacks';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import {photo} from "../../"
+import {photo} from "../../../public/images/shubhamtammewar_profilepic.png"
 import { Button } from '../Button/Button';
 import About from '../About/About';
 import { projects } from '../../Utils/Projects';
