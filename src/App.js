@@ -60,7 +60,7 @@ function App() {
 							Contact
 						</a>
 					</div>
-					<Navbar />
+					<Navbar style={{position:"fixed"}}/>
 					<Home scrollRef={scrollRef} />
 				</div>
 			)}
