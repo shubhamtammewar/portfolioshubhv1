@@ -18,6 +18,8 @@ const Contact = () => {
 				>
 					I'm actively looking for any new opportunities, in
 					full-stack web development.
+
+					Liked my work? Want to get in touch?
 				</p>
 				<div
 					style={{ color: `${newTheme.title}` }}
@@ -64,6 +66,9 @@ const Contact = () => {
 					>
 						<i className='fab fa-linkedin-in' />
 					</a>
+					<p>Mobile Number:- 9850346259
+                       Email:-shubhamtammewar96@gmail.com
+					</p>
 				</div>
 			</div>
 			<div
