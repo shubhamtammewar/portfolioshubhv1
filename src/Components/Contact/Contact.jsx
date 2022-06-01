@@ -74,7 +74,7 @@ const Contact = () => {
 				
 				</div>
 				<p 	style={{ color: `${newTheme.para}` }}
-					className={styles.paragraph}>Mobile Number:- 9850346259
+					className={styles.paragraph}>Mobile Number:-9850346259
 					</p>
 					<p 	style={{ color: `${newTheme.para}`,paddingBottom:'0.5rem' }}
 					className={styles.paragraph}>
