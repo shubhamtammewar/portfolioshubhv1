@@ -75,7 +75,10 @@ const Contact = () => {
 				</div>
 				<p 	style={{ color: `${newTheme.para}` }}
 					className={styles.paragraph}>Mobile Number:- 9850346259
-                       Email:-shubhamtammewar96@gmail.com
+					</p>
+					<p 	style={{ color: `${newTheme.para}` }}
+					className={styles.paragraph}>
+						Email:shubhamtammewar96@gmail.com
 					</p>
 			</div>
 			<div
