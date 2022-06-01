@@ -19,7 +19,11 @@ const Contact = () => {
 					I'm actively looking for any new opportunities, in
 					full-stack web development.
 
-					Liked my work? Want to get in touch?
+				</p>
+				<p
+					style={{ color: `${newTheme.para}` }}
+					className={styles.paragraph}
+				>Liked my work? Want to get in touch?
 				</p>
 				<div
 					style={{ color: `${newTheme.title}` }}
