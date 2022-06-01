@@ -20,6 +20,7 @@ const Contact = () => {
 					full-stack web development.
 
 				</p>
+				<div></div>
 				<p
 					style={{ color: `${newTheme.para}` }}
 					className={styles.paragraph}
@@ -70,10 +71,12 @@ const Contact = () => {
 					>
 						<i className='fab fa-linkedin-in' />
 					</a>
-					<p>Mobile Number:- 9850346259
+				
+				</div>
+				<p 	style={{ color: `${newTheme.para}` }}
+					className={styles.paragraph}>Mobile Number:- 9850346259
                        Email:-shubhamtammewar96@gmail.com
 					</p>
-				</div>
 			</div>
 			<div
 				style={{ background: `${newTheme.line}` }}
