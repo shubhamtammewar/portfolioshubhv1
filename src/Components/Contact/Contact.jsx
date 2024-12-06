@@ -74,7 +74,7 @@ const Contact = () => {
 				
 				</div>
 				<p 	style={{ color: `${newTheme.para}` }}
-					className={styles.paragraph}>Mobile Number:-9850346259
+					className={styles.paragraph}>Mobile Number:- 9850346259
 					</p>
 					<p 	style={{ color: `${newTheme.para}`,paddingBottom:'0.5rem' }}
 					className={styles.paragraph}>
@@ -89,7 +89,7 @@ const Contact = () => {
 				style={{ color: `${newTheme.para}` }}
 				className={styles.copyright}
 			>
-				Designed and build by Shubham Tammewar, 2022 All rights
+				Designed and build by Shubham Tammewar, 2024 All rights
 				reserved.
 			</div>
 		</footer>
