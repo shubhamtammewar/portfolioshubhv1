@@ -27,13 +27,12 @@ const About = () => {
 					style={{ color: `${newTheme.para}` }}
 					className={styles.aboutMe}
 				>
-					Hello! My name is Shubham and I enjoy creating things that are live on the internet. My interest in web development started
-					back last year when I was trying to edit things on the web —
-					taught me a lot about HTML & CSS!. <br />
+					Hello! My name is Shubham and I enjoy creating things that are live on the internet. Enthusiastic Web Developer Who believes 
+					in developing MERN stack apps that are performance driven. <br />
 					<br /> Fast Forwarding to today, I built a number of web
 					applications and 4 major projects. Learned a great deal
-					about teamwork, leadership, and communication. After months
-					of rigorous training, here I am
+					about teamwork, leadership, and communication. here I am with
+					3+ years of Experienced in Web Developement
 					<span style={{ color: `#00a0a0` }}>
 						{' '}
 						looking for an opportunity as a full stack web developer
