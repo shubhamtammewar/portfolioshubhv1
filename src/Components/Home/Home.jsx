@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import styles from './Home.module.css';
 import Card from '../Card/Card';
 import SideIcons from '../SideIcons/SideIcons';
-import TechStacks from '../Techstacks/Techstacks';
+import TechStacks from '../TechStacks/TechStacks';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import photo from "../../shubham/shubhamtammewar_profilepic.png"
