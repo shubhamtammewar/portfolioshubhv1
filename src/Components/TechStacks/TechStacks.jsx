@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { ThemeContext } from '../../ContextProvider/ThemeContext';
-import styles from './Techstacks.module.css';
+import styles from './TechStacks.module.css';
 
 const TechStacks = () => {
 	const { newTheme } = useContext(ThemeContext);
