@@ -111,6 +111,40 @@ const TechStacks = () => {
 					<i className='devicon-mongodb-plain colored' />
 					<span>MongoDB</span>
 				</div>
+				<div
+					style={{
+						color: `${newTheme.title}`,
+						background: `${newTheme.linkHover}`,
+					}}
+					className={styles.logoWrapper}
+				>
+					
+					<i class="devicon-mysql-original"></i>
+					<span>MySql</span>
+				</div>
+				<div
+					style={{
+						color: `${newTheme.title}`,
+						background: `${newTheme.linkHover}`,
+					}}
+					className={styles.logoWrapper}
+				>
+					
+					
+					<i class="devicon-typescript-plain"></i>
+					<span>TypeScript</span>
+				</div>
+				<div
+					style={{
+						color: `${newTheme.title}`,
+						background: `${newTheme.linkHover}`,
+					}}
+					className={styles.logoWrapper}
+				>
+					
+					<i class="devicon-nextjs-plain"></i>
+					<span>NextJs</span>
+				</div>
 			</div>
 		</div>
 	);
