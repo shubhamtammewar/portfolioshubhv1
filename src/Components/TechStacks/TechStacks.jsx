@@ -119,7 +119,7 @@ const TechStacks = () => {
 					className={styles.logoWrapper}
 				>
 					
-					<i class="devicon-mysql-original"></i>
+					<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg' alt='' />
 					<span>MySql</span>
 				</div>
 				<div
@@ -142,8 +142,20 @@ const TechStacks = () => {
 					className={styles.logoWrapper}
 				>
 					
-					<i class="devicon-nextjs-plain"></i>
+					<i class="devicon-nextjs-plain colored"></i>
 					<span>NextJs</span>
+				</div>
+				<div
+					style={{
+						color: `${newTheme.title}`,
+						background: `${newTheme.linkHover}`,
+					}}
+					className={styles.logoWrapper}
+				>
+					
+                    
+                    <i class="devicon-webpack-plain"></i>
+					<span>WebPack</span>
 				</div>
 			</div>
 		</div>
