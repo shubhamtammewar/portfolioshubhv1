@@ -142,7 +142,7 @@ const TechStacks = () => {
 					className={styles.logoWrapper}
 				>
 					
-					<i class="devicon-nextjs-plain colored"></i>
+	                <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg' alt=''/>
 					<span>NextJs</span>
 				</div>
 				<div
