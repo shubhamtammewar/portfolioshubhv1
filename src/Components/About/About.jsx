@@ -27,7 +27,12 @@ const About = () => {
 					style={{ color: `${newTheme.para}` }}
 					className={styles.aboutMe}
 				>
-					Hello! My name is Shubham and I enjoy creating things that are live on the internet. Enthusiastic Web Developer Who believes 
+					<span style={{ color: `#00a098` }}>
+						{' '}
+						Hi, I am Shubham Tammewar
+						Software Engineer at Globallogic India Pvt. Ltd., Chennai.
+					</span>
+					I enjoy creating things that are live on the internet. Enthusiastic Web Developer Who believes 
 					in developing MERN stack apps that are performance driven. <br />
 					<br /> Fast Forwarding to today, I built a number of web
 					applications and 4 major projects. Learned a great deal
